@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Arena</string>
+    <string name="logo_desc">logo desc</string>
+    <string name="illustration_desc">illustration desc</string>
+    <string name="onboarding_2">Onboarding 2</string>
+</resources>
