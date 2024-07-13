@@ -15,4 +15,6 @@
     <color name="grey">#FF939393</color>
     <color name="light_grey">#FFEDEDED</color>
     <color name="dark_grey">#FF32343E</color>
+
+    <color name="grey_input_bg">#FFF6F6F6</color>
 </resources>
